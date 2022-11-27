@@ -1,1 +1,12 @@
-/* styles go here */
+.form-field:not(:last-child) {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.group-field {
+  margin-bottom: 20px;
+}
+
+/* .button-submit {
+  margin: 20px 0 0;
+} */
